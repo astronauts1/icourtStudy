@@ -30,3 +30,4 @@ $ git merge origin/master
 ```$xslt
 $ git pull origin master
 ```
+### 在合别人分支的时候需要先merge下master。确保分支的内容最新版本的
